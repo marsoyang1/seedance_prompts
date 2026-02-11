@@ -2,6 +2,8 @@
 
 收集全网精选的 Seedance 2.0 创意提示词与生成视频灵感库
 
+> 💡 **提示词持续更新中！** 觉得有用的话，欢迎收藏点赞，你们的支持是我持续更新的动力！
+
 ---
 
 ## 📹 精选视频
@@ -618,41 +620,17 @@ K-drama short film in a cozy restaurant: girl enthusiastically slurps noodles, l
 ```
 seedance_prompts/
 ├── README.md          # 本文档
-└── source/
-    ├── video1.mp4     # 淡水夕阳篇视频 (原版)
-    ├── video1.gif     # 淡水夕阳篇 GIF (GitHub直接预览)
-    ├── video2.mp4     # 直播带货篇视频 (原版)
-    ├── video2.gif     # 直播带货篇 GIF (GitHub直接预览)
-    ├── video3.mp4     # 神豪爽剧篇视频 (原版)
-    ├── video3.gif     # 神豪爽剧篇 GIF (GitHub直接预览)
-    ├── video4.mp4     # 镜子悬疑篇视频 (原版)
-    ├── video4.gif     # 镜子悬疑篇 GIF (GitHub直接预览)
-    ├── video5.mp4     # 哥特战斗篇视频 (原版)
-    ├── video5.gif     # 哥特战斗篇 GIF (GitHub直接预览)
-    ├── video6.mp4     # 洗车反转篇视频 (原版)
-    ├── video6.gif     # 洗车反转篇 GIF (GitHub直接预览)
-    ├── video7.mp4     # 揉面生活篇视频 (原版)
-    ├── video7.gif     # 揉面生活篇 GIF (GitHub直接预览)
-    ├── video8.mp4     # 韩剧美食篇视频 (原版)
-    ├── video8.gif     # 韩剧美食篇 GIF (GitHub直接预览)
-    ├── video9.mp4     # 滑雪运动篇视频 (原版)
-    ├── video9.gif     # 滑雪运动篇 GIF (GitHub直接预览)
-    └── video10.mp4     # 东方玄幻篇视频 (原版)
-        └── video10.gif     # 东方玄幻篇 GIF (GitHub直接预览)
-```
-seedance_prompts/
-├── README.md          # 本文档
-└── source/
-    ├── video1.mp4     # 淡水夕阳篇视频 (原版)
-    ├── video1.gif     # 淡水夕阳篇 GIF (GitHub直接预览)
-    ├── video2.mp4     # 直播带货篇视频 (原版)
-    ├── video2.gif     # 直播带货篇 GIF (GitHub直接预览)
-    ├── video3.mp4     # 神豪爽剧篇视频 (原版)
-    ├── video3.gif     # 神豪爽剧篇 GIF (GitHub直接预览)
-    ├── video4.mp4     # 镜子悬疑篇视频 (原版)
-    ├── video4.gif     # 镜子悬疑篇 GIF (GitHub直接预览)
-    └── video5.mp4     # 哥特战斗篇视频 (原版)
-        └── video5.gif     # 哥特战斗篇 GIF (GitHub直接预览)
+└── source/            # 视频源文件（MP4 + GIF）
+    ├── video1.mp4/gif # 淡水夕阳篇
+    ├── video2.mp4/gif # 直播带货篇
+    ├── video3.mp4/gif # 神豪爽剧篇
+    ├── video4.mp4/gif # 镜子悬疑篇
+    ├── video5.mp4/gif # 哥特战斗篇
+    ├── video6.mp4/gif # 洗车反转篇
+    ├── video7.mp4/gif # 揉面生活篇
+    ├── video8.mp4/gif # 韩剧美食篇
+    ├── video9.mp4/gif # 滑雪运动篇
+    └── video10.mp4/gif # 东方玄幻篇
 ```
 
 ---
