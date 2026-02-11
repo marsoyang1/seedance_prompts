@@ -618,7 +618,7 @@ K-drama short film in a cozy restaurant: girl enthusiastically slurps noodles, l
 ## 📂 项目结构
 
 ```
-seedance_prompts/
+awesome-seedance-prompts/
 ├── README.md          # 本文档
 └── source/            # 视频源文件（MP4 + GIF）
     ├── video1.mp4/gif # 淡水夕阳篇
@@ -658,6 +658,6 @@ seedance_prompts/
 
 **Built with ❤️ for the Seedance 2.0 community**
 
-[GitHub](https://github.com/marsoyang1/seedance_prompts)
+[GitHub](https://github.com/marsoyang1/awesome-seedance-prompts)
 
 </div>" 
