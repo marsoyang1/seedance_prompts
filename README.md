@@ -732,6 +732,55 @@ awesome-seedance-prompts/
 
 ---
 
+### 🎬 视频 12 | 功夫厨艺篇
+
+**中国功夫美食 - Deji Lamu 的武术烹饪**
+
+![功夫厨艺篇](source/video12.gif)
+
+| 项目 | 详情 |
+|------|------|
+| **时长** | 约12秒 |
+| **风格** | 电影感摄影，写实主义，慢动作部分，8K分辨率，精确的物理交互，完美的时间一致性 |
+| **主角** | Deji Lamu（中国女人），黑色长发，穿着传统白色功夫衬衫（盘扣） |
+| **场景** | 质朴的中式厨房 |
+| **视频来源** | [X (Twitter)](https://x.com/i/status/2021563794129031325) |
+| **本地视频** | `source/video12.mp4` / `source/video12.gif` |
+
+---
+
+#### 📝 核心提示词
+
+**风格设置：**
+> Cinematic lighting, photorealistic, slow-motion parts, 8k resolution, precise physics interaction, flawless temporal consistency.
+
+**场景描述：**
+> A rustic and cinematic Chinese kitchen.
+
+**主角描述：**
+> A beautiful Chinese woman named Deji Lamu, long black hair, wearing a traditional white Kung Fu shirt with frog buttons.
+
+---
+
+#### 📋 完整提示词原文
+
+```
+A beautiful Chinese woman named Deji Lamu, long black hair, wearing a traditional white Kung Fu shirt with frog buttons, in a rustic and cinematic Chinese kitchen. She is cooking tomato and scrambled eggs using martial arts moves: she strikes an egg mid-air, egg liquid flowing smoothly into the wok; she flips the heavy wok with powerful Kung Fu strikes, fire rising from the pan; fluid and fast-paced action sequences, close-up shots of tomato slices flying into the pan. Cinematic lighting, photorealistic, slow-motion parts, 8k resolution, precise physics interaction, flawless temporal consistency.
+```
+
+---
+
+#### 🎬 场景分镜
+
+| 时间段 | 画面描述 |
+|--------|----------|
+| [00:00-00:03] | Deji Lamu 在中式厨房中，身穿白色功夫衬衫，黑色长发 |
+| [00:03-00:06] | 她用功夫动作打鸡蛋，鸡蛋在空中被击中，蛋液顺畅流入锅中 |
+| [00:06-00:09] | 她用有力的功夫翻锅动作翻动沉重的锅，火焰从锅中升起 |
+| [00:09-00:12] | 流畅快节奏的动作序列，西红柿片飞入锅中的特写镜头 |
+
+---
+
 ## 💡 提示词编写技巧
 
 1. **风格定义**：明确指定画面风格（电影感、胶片感、直播风等）
@@ -745,9 +794,9 @@ awesome-seedance-prompts/
 
 | 指标 | 数量 |
 |------|------|
-| 视频总数 | 11 |
+| 视频总数 | 12 |
 | 平均时长 | 15秒 |
-| 包含分镜 | 32个镜头 |
+| 包含分镜 | 35个镜头 |
 
 ---
 
